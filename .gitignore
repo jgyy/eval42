@@ -160,6 +160,5 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 .env
-
-# PyPI configuration file
+*.json
 .pypirc
